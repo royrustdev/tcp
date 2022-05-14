@@ -1,0 +1,11 @@
+[package]
+name = "tcp"
+version = "0.1.0"
+authors = ["Nrishinghananda Roy <royrustdev@gmail.com>"]
+edition = "2021"
+description = "A Rust implementation of tcp"
+readme = "README.md"
+repository = "https://github.com/royrustdev/tcp/"
+keywords = ["tcp", "rust-tcp", "tcp_in_Rust", "tcp-rs", "tcp-rust"]
+
+[dependencies]
